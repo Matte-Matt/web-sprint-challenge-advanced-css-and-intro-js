@@ -30,15 +30,15 @@ Acessibility is creating each page with ease of use for everyone including those
 
 - Write desciption's when available in elements such as the alt tag
 - Creating your page using semantic html structure
-- Not only building a site wiih responsive elements but also responsive font-sizing 
+- Not only building a site wiih responsive elements but also responsive font-sizing
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-A variable is a container of information, you can assign a myraid of data to a variable and call upon whenever needed. 
+A variable is a container of information, you can assign a myraid of data to a variable and call upon whenever needed.
 
 4. What is the purpose of using functions in code?
 
-The amin purpose of a function is to be able to use it
+The main purpose of a function is to be able to use it whenever you would like to without having to rewrite code you originally used in the function, in that way all you have to do is call on a written function and it will execute.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
